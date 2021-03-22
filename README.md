@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🌱 I’m currently learning C++, Python and Machine Learning
-- <img src="https://img.icons8.com/color/48/000000/python.png">
-- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> 
-- <img src="https://img.icons8.com/cute-clipart/48/000000/machine-learning.png">
+- <img src="https://img.icons8.com/color/48/000000/python.png"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> <img src="https://img.icons8.com/cute-clipart/48/000000/machine-learning.png">
 - 💬 Ask me about Computer Vision
 
+- Checkout My Github Status
 <span>   
-  <img src="https://github-readme-stats.vercel.app/api?username=h4r5h1t-007&theme=radical&show_icons=true&count_private=true&hide=stars" width=455> &nbsp;   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-007&theme=radical&layout=compact&hide=css" width=387>
+  <img src="https://github-readme-stats.vercel.app/api?username=h4r5h1t-007&theme=radical&show_icons=true&count_private=true&hide=stars" width=455>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-007&theme=radical&layout=compact&hide=css" width=387> &nbsp;
 </span>
 
 <h4> You can checkout my other profiles below: </h4> <br>
