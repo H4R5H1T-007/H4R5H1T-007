@@ -6,19 +6,27 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🌱 I’m currently learning C++, Python and Machine Learning
+- <img src="https://img.icons8.com/color/48/000000/python.png">
+- <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> 
+- <img src="https://img.icons8.com/cute-clipart/48/000000/machine-learning.png">
+- 💬 Ask me about Computer Vision
 
 <span>   
   <img src="https://github-readme-stats.vercel.app/api?username=h4r5h1t-007&theme=radical&show_icons=true&count_private=true&hide=stars" width=455> &nbsp;   
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-007&theme=radical&layout=compact&hide=css" width=387>
 </span>
+
+<h4> You can checkout my other profiles below: </h4> <br>
+<a href="https://www.linkedin.com/in/harshit-gupta-8a7b621a4/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"> </a>
+<a href="mailto:hgupta1153@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"> </a>
 
 <p> <img src="https://komarev.com/ghpvc/?username=h4r5h1t-007&color=green" alt="counter" /> </p>
