@@ -1,3 +1,5 @@
+<div align="center">
+
 ### Hi there 👋
 
 <!--
@@ -29,3 +31,5 @@ Here are some ideas to get you started:
 <a href="mailto:hgupta1153@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"> </a>
 
 <p> <img src="https://komarev.com/ghpvc/?username=h4r5h1t-007&color=green" alt="counter" /> </p>
+
+</div>
