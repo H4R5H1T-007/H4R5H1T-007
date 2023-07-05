@@ -19,14 +19,15 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Data Science, NLP, Computer Vision, Machine Learning.
 - 🔭 I’m currently working in WellsFargo as Program Associate. 
 - 👯 I’m looking to collaborate on Open source projects.
-  <br><br><br>  <br><br><br>  <br>
+  <br><br><br><br>  
+  <!-- <br><br><br>  <br> -->
 
 <!-- - Checkout My Github Status   -->
 
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-007&theme=radical&layout=compact&hide=css" width=400 height=200> &nbsp; -->
 
 <div align='center'>
-<h4> You can checkout my other profiles below: </h4> <br>
+<h4> You can checkout my other profiles below: </h4> 
 <a href="https://www.linkedin.com/in/harshit-gupta-8a7b621a4/"> <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"> </a>
 <a href="mailto:hgupta1153@gmail.com"> <img src="https://img.icons8.com/color/48/000000/gmail.png" width="3.5%"> </a>
 
