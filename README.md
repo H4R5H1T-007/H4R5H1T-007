@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🤔 I’m looking for help with Data Science, NLP, Computer Vision, Machine Learning.
-- 🔭 I’m currently working in C4GT as Open source contibutor.
+- 🔭 I’m currently working in WellsFargo as Program Associate. 
 - 👯 I’m looking to collaborate on Open source projects.
 
 - Checkout My Github Status
