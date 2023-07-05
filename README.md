@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 -->
 <a><img align="right" alt="Gaurav Kumar" width="450px"  src="https://github-readme-stats.vercel.app/api?username=h4r5h1t-007&theme=radical&show_icons=true&count_private=true&hide=stars"></a>
 - 🤔 I’m looking for help with Data Science, NLP, Computer Vision, Machine Learning.
-- 🔭 I’m currently working in WellsFargo as Program Associate. 
+- 🔭 I’m currently working as Program Associate @WellsFargo. 
 - 👯 I’m looking to collaborate on Open source projects.
-  <br><br><br><br>  
+- 🌱 I’m currently learning NLP.
+  <br><br><br>  
   <!-- <br><br><br>  <br> -->
 
 <!-- - Checkout My Github Status   -->
