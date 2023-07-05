@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 
 - Checkout My Github Status
 <span>   
-  <img src="https://github-readme-stats.vercel.app/api?username=h4r5h1t-007&theme=radical&show_icons=true&count_private=true&hide=stars" width=455>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-007&theme=radical&layout=compact&hide=css" width=387> &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=h4r5h1t-007&theme=radical&show_icons=true&count_private=true&hide=stars" width=400 height=200>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h4r5h1t-007&theme=radical&layout=compact&hide=css" width=400 height=200> &nbsp;
 </span>
 
 <h4> You can checkout my other profiles below: </h4> <br>
