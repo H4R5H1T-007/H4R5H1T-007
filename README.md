@@ -10,15 +10,16 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 
 - 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-
+- 🤔 I’m looking for help with Data Science, NLP, Computer Vision, Machine Learning.
+- 🌱 I’m currently learning C++, Python and Machine Learning
+- <img src="https://img.icons8.com/color/48/000000/python.png"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> <img src="https://img.icons8.com/cute-clipart/48/000000/machine-learning.png">
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning C++, Python and Machine Learning
-- <img src="https://img.icons8.com/color/48/000000/python.png"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"> <img src="https://img.icons8.com/cute-clipart/48/000000/machine-learning.png">
-- 💬 Ask me about Computer Vision
+- 🤔 I’m looking for help with Data Science, NLP, Computer Vision, Machine Learning.
+- 🔭 I’m currently working in C4GT as Open source contibutor.
+- 👯 I’m looking to collaborate on Open source projects.
 
 - Checkout My Github Status
 <span>   
