@@ -1,4 +1,4 @@
-### Hi there Harshit here 👋.
+### Hi, Harshit here 👋.
 
 <!--
 **H4R5H1T-007/H4R5H1T-007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a><img align="right" alt="Gaurav Kumar" width="450px"  src="https://github-readme-stats.vercel.app/api?username=h4r5h1t-007&theme=radical&show_icons=true&count_private=true&hide=stars"></a>
-- 🤔 I’m looking for help with Data Science, NLP, Computer Vision, Machine Learning.
+- 🤔 I’m looking to help with Data Science, NLP, Computer Vision, Machine Learning.
 - 🔭 I’m currently working as Program Associate @WellsFargo. 
 - 👯 I’m looking to collaborate on Open source projects.
 - 🌱 I’m currently learning NLP.
